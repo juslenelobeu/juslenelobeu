@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi, I'm Juslene Lobeu! :D
 
-<!--
-**juslenelobeu/juslenelobeu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/juslenelobeu)](https://github.com/juslenelobeu)
+[![Follow](https://img.shields.io/github/followers/juslenelobeu?style=social)]
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juslenelobeu/)](https://www.linkedin.com/in/juslenelobeu/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/JusleneLobeu)](https://twitter.com/JusleneLobeu)
 
-Here are some ideas to get you started:
+### About me
+Olá, pode me chamar de Juh!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Trabalho há quase 10 anos como Designer Gráfico e Web Designer e há alguns meses decidi mergulhar na área de Desenvolvimento Web e tenho buscado o aprendizado de forma auto didática e participado de alguns cursos e bootcamps.
+
+Minha espectativa é alcançar os conhecimentos necessários para ser Desenvolvedora Fullstack.
