@@ -8,6 +8,6 @@
 ### About me
 Olá, pode me chamar de Juh!
 
-Trabalho há quase 10 anos como Designer Gráfico e Web Designer e há alguns meses decidi mergulhar na área de Desenvolvimento Web e tenho buscado o aprendizado de forma auto didática e participado de alguns cursos e bootcamps.
+Há 10 anos como Designer Gráfico e Web Designer e há alguns meses decidi mergulhar na área de Desenvolvimento Web e tenho buscado o aprendizado de forma autodidata e participado de alguns cursos e bootcamps.
 
 Minha espectativa é alcançar os conhecimentos necessários para ser Desenvolvedora Fullstack.
