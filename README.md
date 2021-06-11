@@ -12,4 +12,4 @@ Há 10 anos como Designer Gráfico e Web Designer e há alguns meses decidi merg
 Minha espectativa é alcançar os conhecimentos necessários para ser Desenvolvedora Fullstack.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juslenelobeu&layout=compact)](https://github.com/juslenelobeu/github-readme-stats)
-<!-- [![JusleneLobeu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=juslenelobeu&layout=compact)](https://github.com/juslenelobeu/github-readme-stats) -->
+[![JusleneLobeu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=juslenelobeu&layout=compact)](https://github.com/juslenelobeu/github-readme-stats)
