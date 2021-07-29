@@ -1,3 +1,5 @@
+![image cover profile](https://github.com/juslenelobeu/juslenelobeu/blob/master/cover-ju-2.png?raw=true)
+
 # Hi, I'm Juslene Lobeu! :D
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/juslenelobeu)](https://github.com/juslenelobeu)
