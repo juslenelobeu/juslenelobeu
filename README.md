@@ -1,15 +1,17 @@
 ![image cover profile](https://github.com/juslenelobeu/juslenelobeu/blob/master/cover-ju-2.png?raw=true)
 
-# Hi, I'm Juslene Lobeu! :D
+# Hi, I'm Juslene Lobeu! ✌️
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/juslenelobeu)](https://github.com/juslenelobeu)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juslenelobeu/)](https://www.linkedin.com/in/juslenelobeu/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/JusleneLobeu)](https://twitter.com/JusleneLobeu)
 
 ### About me
 Olá, pode me chamar de Juh!
 
-Há 10 anos atuando como Designer Gráfico e Web Designer decidi mergulhar na área de Desenvolvimento Web e tenho buscado o aprendizado de forma autodidata e participado de alguns cursos e bootcamps.
+Há anos atuando como Designer Gráfico e Web Designer decidi mergulhar de vez na área de Desenvolvimento Web e tenho buscado o aprendizado de forma autodidata e participado de alguns cursos e bootcamps.
+
+Os últimos foram: 
+- Finalista do [Hiring Coders](https://www.hiringcoders.com.br/) - Mais de 30.000 inscrições, 10.000 selecionados para a 1 fase, 3.000 selecionados para a 2 fase e 300 classificados para a final.
+- [Go Beyond | Corebiz](https://conteudo.corebiz.ag/gobeyond-3-edicao) - Selecionada para participar desse programa de capacitação profissional na área de desenvolvimento.
 
 Minha expectativa é alcançar os conhecimentos necessários para ser Desenvolvedora Fullstack.
 
