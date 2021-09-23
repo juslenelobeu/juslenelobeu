@@ -15,4 +15,4 @@ Os últimos foram:
 
 Minha expectativa é alcançar os conhecimentos necessários para ser Desenvolvedora Fullstack.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juslenelobeu&layout=compact)](https://github.com/juslenelobeu/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juslenelobeu&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juslenelobeu&layout=compact)](https://github.com/juslenelobeu/github-readme-stats)
