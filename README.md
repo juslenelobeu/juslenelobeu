@@ -1,4 +1,4 @@
-![image cover profile](https://media.licdn.com/dms/image/D4D16AQGhq_QitcJBNQ/profile-displaybackgroundimage-shrink_350_1400/0/1694970608374?e=1711584000&v=beta&t=6cU91k1m0eMywOQsfTKxyxVpCFKacrY1biZIP_cgpIM)
+![image cover profile](https://media.licdn.com/dms/image/D4D16AQGhq_QitcJBNQ/profile-displaybackgroundimage-shrink_350_1400/0/1694970608374?e=1724889600&v=beta&t=9IQfi7stkwsmYennCMEIJQYcFBp9fhmOTC5CaHyckdk)
 
 # Hi, I'm Juslene Lobeu! ✌️ [ Front-end Developer ]
 
